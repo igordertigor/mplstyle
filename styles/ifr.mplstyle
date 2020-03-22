@@ -57,7 +57,7 @@ image.cmap : coolwarm
 
 # specialized plots
 hist.bins : auto
-scatter.marker : .
+scatter.marker : o
 scatter.edgecolors : white
 
 # Saving figures
